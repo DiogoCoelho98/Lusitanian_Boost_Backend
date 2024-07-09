@@ -16,7 +16,7 @@ Lusitian Boost is a web application designed to combat sedentary behavior throug
 ## Features
 - **Browse through a list of challenges, members results, and coaches**
 - **View training sessions details** such as type of workout, description, exercises, etc
-- **Add new traning session** (requires authentication)
+- **Add new training session** (requires authentication)
 - **Edit/Delete existing traning session** (requires authentication)
 - **Add/Update/Delete tracking variables, like bodyweight, number os steps, etc** (requires authentication)
 - **User registration**
